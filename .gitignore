@@ -1,0 +1,4 @@
+__pycache__
+lab-2/models/*
+!lab-2/models/.gitkeep
+*.docx
